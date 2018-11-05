@@ -1,0 +1,18 @@
+- city: 'Paris'
+  country: 'France'
+  description: 'Charming room in Montmartre'
+  owner: 'Sebastien'
+  username: 'ssaunier'
+  stars: 4
+- city: 'Tokyo'
+  country: 'Japan'
+  description: 'Small flat in Tokyo'
+  owner: 'Boris'
+  username: 'papillard'
+  stars: 3
+- city: 'London'
+  country: 'UK'
+  description: 'Nice flat in Piccadilly'
+  owner: 'Romain'
+  username: 'monsieurpaillard'
+  stars: 5
